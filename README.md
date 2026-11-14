@@ -3,6 +3,7 @@
 A small C++ console tool that changes two File Explorer preferences through WinAPI.
 You can show file extensions, show hidden files, and restore your original registry values.
 The tool applies changes to your Windows account. It does not need administrator access.
+(Worth mentioning that I'm a beginner in C++, and this project was just a part of my learning). 
 
 ## Why this project exists
 
